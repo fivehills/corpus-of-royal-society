@@ -1,5 +1,5 @@
 # corpus-of-royal-society
-relative entropy and linguistic concreteness
+The following code scripts are used to calculate relative entropy and linguistic concreteness.
 The file consists of three zipped documents, and each zipped document is responsible for one of three functions (concreteness, lemma and POS trigram). 
 Each zipped docuement includes a code script and texts.
 Due to the large size of all texts in PTRS, just several samples are uploaded here.
